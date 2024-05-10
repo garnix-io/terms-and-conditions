@@ -48,8 +48,7 @@ By posting Content on or through the Services, you state that:
 * the Content otherwise complies with all applicable law.
 
 We reserve the right to terminate your account if we find you to be infringing
-on a copyright or otherwise violating any of the aforementioned representation
-and warranties.
+on a copyright or otherwise violating any of these statements.
 
 You retain all of your rights to any Content you submit, post or display on or
 through the Services and you are responsible for protecting those rights. We
@@ -76,9 +75,9 @@ your account on the Services.
 ## Your Security Responsibilities
 
 You are responsible for maintaining the confidentiality of your account,
-including your password and login credentials, and including but not limited to
+including your password, tokens, and login credentials, and including but not limited to
 the restriction of access to your computer or account. You agree to accept
-responsibility for any and all activities or actions that occur under your
+responsibility for all activities or actions that occur under your
 account or password, whether your password is with our Services or a
 third-party service. You must notify us immediately upon becoming aware of any
 (actual, threatened, or potential) breach of security or unauthorized use of
@@ -93,9 +92,9 @@ intellectual property) of the Company (and, if applicable, its licensors). The
 Services are protected by copyright, trademark, and other laws of both the
 United States and foreign countries. Our trademarks and trade dress may not be
 used (whether in connection with any product or service or otherwise) without
-the prior written consent of the Company and except as permitted herein.  As an
-Authorized User, you are being given access by us to the Services under and
-subject to a restricted license (i.e., the license is subject to the
+the prior written consent of the Company and except as permitted by these
+Terms.  As an Authorized User, you are being given access by us to the Services
+under and subject to a restricted license (i.e., the license is subject to the
 restrictions in these Terms) that is also fully revocable (i.e., we can suspend
 your use at our discretion).
 
@@ -106,10 +105,10 @@ You agree that you will not:
   software, technology, or the Services;
 * sublicense any of our intellectual property to third parties or sell, resell,
   rent, sublicense or lease the Services to third parties;
-* otherwise violate the license grant or restrictions set forth herein;
+* otherwise violate the license grant or restrictions set forth in these Terms;
 * use the Services to store or transmit malicious software;
 * interfere with or disrupt the integrity or performance of the Services or
-  third-party data contained therein;
+  third-party data that they contain;
 * attempt to gain unauthorized access to the Services or their related systems or networks;
 * misappropriate any of our software, technology or other services or use the
   Services to permit, enable or assist a third party to create competing
@@ -172,7 +171,7 @@ privacy policies, or practices of any third party web sites or services. We do
 not warrant the offerings of any of these entities/individuals or their
 websites.
 
-You acknowledge and agree that the Company shall not be responsible or liable,
+You acknowledge and agree that the Company will not be responsible or liable,
 directly or indirectly, for any damage or loss caused or alleged to be caused
 by or in connection with use of or reliance on any such content, goods or
 services available on or through any such third party websites or services.
@@ -182,11 +181,11 @@ any third party web sites or services that you visit, and use any such third
 party web sites or services only if you are in agreement with the terms
 governing those third party services. If you click-through to any third-party
 services, either directly or indirectly through the Services (collectively, the
-“Linked Sites”), you acknowledge and agree that you shall be subject to the
+“Linked Sites”), you acknowledge and agree that you will be subject to the
 terms and conditions of usage applicable to such Linked Sites. If you do not
 comply with a third party service terms and conditions, we may be required to
 terminate your access to such third party’s content or the Services if we
-cannot separate the third party content from our Services. We shall have no
+cannot separate the third party content from our Services. We will have no
 liability for any reduction of or inaccessibility to the Services and you will
 not be entitled to any remedy as a result of your access termination of either
 a third party service or our Services where applicable.
@@ -211,7 +210,7 @@ If you wish to terminate your account, please reach out to your account
 administrator or contact@garnix.io.
 
 All provisions of these Terms which by their nature should survive termination
-shall survive termination, including, without limitation, intellectual
+will survive termination, including, without limitation, intellectual
 property/ownership provisions, warranty disclaimers, indemnity and limitations
 of liability.
 
@@ -219,7 +218,7 @@ of liability.
 
 You agree to defend, indemnify and hold harmless the Company and its licensee
 and licensors, and its and their employees, contractors, agents, officers and
-directors, from and against any and all damages, obligations, losses,
+directors, from and against all damages, obligations, losses,
 liabilities, costs or debt, and expenses (including but not limited to
 attorney’s fees), for any third party claim against the Company arising out of
 a) your use and access of the Services, by you or any person using your account
@@ -258,7 +257,7 @@ Your use of the Services is at your sole risk. The Services are provided on an
 of any kind, whether express or implied, including, but not limited to, implied
 warranties of merchantability, fitness for a particular purpose,
 non-infringement or course of performance. Furthermore, the Company will often
-release products labeled “alpha” and “beta”, which shall serve as our
+release products labeled “alpha” and “beta”, which serve as our
 notification to you that we do not believe the product or service meets
 industry, or our own, standard security, reliability, and stability
 expectations. You acknowledge and agree that your use of any products labeled
@@ -272,8 +271,9 @@ or business objectives.
 
 ## Governing Law
 
-These Terms shall be governed and construed in accordance with the laws of
-Delaware, United States, without regard to its conflict of law provisions.
+These Terms will be governed by and should be construed in accordance with the
+laws of Delaware, United States, without regard to its conflict of law
+provisions.
 
 Our failure to enforce any right or provision of these Terms will not be
 considered a waiver of those rights. If any provision of these Terms is held to
