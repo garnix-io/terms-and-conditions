@@ -15,6 +15,7 @@
       in
       {
         vale = pkgs.runCommand "vale-check" {} ''
+          cd ${./.}
           ${pkgs.vale}/bin/vale terms.md
         '';
       });
