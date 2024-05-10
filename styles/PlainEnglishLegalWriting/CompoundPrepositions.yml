@@ -1,0 +1,7 @@
+extends: substitution
+message: "Use '%s' instead of '%s'"
+link:
+nonword: true
+level: warning
+swap:
+  'in the event': because|in case|if|[reword]

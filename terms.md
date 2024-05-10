@@ -2,16 +2,15 @@
 
 ## Who, What, and How?
 
-
 Officially, we are **garnix, Co.**, but for purposes of these Online Terms and
 Conditions (“Terms”), we may refer to ourselves as the “Company”, “us”, “we”,
-or “our”.  These Terms are meant to give you background about our website
+or “our”. These Terms are meant to give you background about our website
 (https://garnix.io), our applications, and our online services (collectively,
-“Services”).  Please read these Terms carefully before accessing our Services.
+“Services”). Please read these Terms carefully before accessing our Services.
 You must accept and comply with these Terms before accessing our Services.
 
 Our Services and all of the information contained on or through the Services,
-may be accessed only by “Authorized Users”.  Who are Authorized Users?
+may be accessed only by “Authorized Users”. Who are Authorized Users?
 Authorized Users are those persons who have accepted and agreed to these Terms.
 You are an authorized user if you are using the Services on your own behalf or
 on behalf of your employer.
@@ -35,8 +34,8 @@ Our Services include software hosting, caching of artifacts, and continuous
 integration for the data, source code, build artifacts, dependencies, and
 software that you provide (“Content”). You are responsible for the Content that
 you post on or through the Services, including its legality, security,
-reliability, and appropriateness. You are also responsible for backups of any
-of your Content.
+reliability, and appropriateness. You are also responsible for maintaining
+backups of your Content.
 
 By posting Content on or through the Services, you state that:
 
@@ -57,27 +56,20 @@ party posts on or through the Services. However, by posting Content using the
 Services, you grant us the right and license to use such Content to the extent
 necessary to provide you with our Services.
 
-In addition, all access to Content found on the Services reserved
-solely for the Company’s control of its Services (or used by others with
-permission). You may not distribute, modify, transmit, reuse, download, repost,
-copy, or use said Content, whether in whole or in part, for commercial purposes
-or for personal gain, without express advance written permission from us.
-
 ## Authorized User Accounts
 
 When you create an account with us, you guarantee that you are above the age of
 13. If you are under 18 you must have your parent or legal guardian’s
 permission to use the Service. You also guarantee that the information you
-provide us is accurate, complete, and current at all times. Inaccurate,
-incomplete, or obsolete information may result in the immediate termination of
-your account on the Services.
+provide us is accurate, complete, and current at all times. We may otherwise
+terminate your account.
 
 ## Your Security Responsibilities
 
 You are responsible for maintaining the confidentiality of your account,
-including your password, tokens, and login credentials, and including but not limited to
-the restriction of access to your computer or account. You agree to accept
-responsibility for all activities or actions that occur under your
+including your password, tokens, and login credentials, and including but not
+limited to the restriction of access to your computer or account. You agree to
+accept responsibility for all activities or actions that occur under your
 account or password, whether your password is with our Services or a
 third-party service. You must notify us immediately upon becoming aware of any
 (actual, threatened, or potential) breach of security or unauthorized use of
@@ -93,8 +85,8 @@ Services are protected by copyright, trademark, and other laws of both the
 United States and foreign countries. Our trademarks and trade dress may not be
 used (whether in connection with any product or service or otherwise) without
 the prior written consent of the Company and except as permitted by these
-Terms.  As an Authorized User, you are being given access by us to the Services
-under and subject to a restricted license (i.e., the license is subject to the
+Terms. As an Authorized User, we give you access to the Services
+under a restricted license (i.e., the license is subject to the
 restrictions in these Terms) that is also fully revocable (i.e., we can suspend
 your use at our discretion).
 
@@ -122,10 +114,10 @@ You agree that you will not:
 ## Payment
 
 You understand that pricing for our Services will be listed on the pricing
-page, or separately quoted to satisfy your unique needs, if any.  Prices are
+page, or separately quoted to satisfy your unique needs, if any. Prices are
 based on plan and usage. You understand that usage limits may cause service
 interruptions if your usage for a particular payment period exceeds your
-purchased limit.  Any invoice you receive must be paid within 30 days of the
+purchased limit. Any invoice you receive must be paid within 30 days of the
 invoice date.
 
 ## Confidentiality
@@ -148,9 +140,8 @@ Company Confidential Information does not include information which:
 
 You agree not to make Company Confidential Information available in any form to
 any unauthorized third parties. You agree to take all reasonable steps to
-ensure that Company Confidential Information is not disclosed or distributed by
-you, or your employer or the entity on whose behalf you are using the Services
-in violation of the provisions of these Terms
+ensure that you, your employer, or the entity on whose behalf you use the
+service do not disclose Company Confidential Information.
 
 ## Feedback
 
@@ -165,7 +156,7 @@ based on intellectual property rights or otherwise.
 ## Links to Other Websites/Third Party Services; Third Party Content
 
 Our Services may contain links to (or otherwise inter-operate with) third party
-websites or services that are not owned or controlled by the Company.  The
+websites or services that are not owned or controlled by the Company. The
 Company has no control over, and assumes no responsibility for the content,
 privacy policies, or practices of any third party web sites or services. We do
 not warrant the offerings of any of these entities/individuals or their
@@ -206,8 +197,7 @@ immediately, without prior notice or liability, under our sole discretion, for
 any reason whatsoever and without limitation, including but not limited to as a
 result of a breach of any provision under these Terms.
 
-If you wish to terminate your account, please reach out to your account
-administrator or contact@garnix.io.
+If you wish to terminate your account, please reach out to contact@garnix.io.
 
 All provisions of these Terms which by their nature should survive termination
 will survive termination, including, without limitation, intellectual
@@ -237,11 +227,11 @@ ANY CONTENT OBTAINED FROM THE SERVICES; AND (iv) UNAUTHORIZED ACCESS, USE, OR
 ALTERATION OF YOUR TRANSMISSIONS OR CONTENT, WHETHER BASED ON WARRANTY,
 CONTRACT, TORT (INCLUDING NEGLIGENCE) OR ANY OTHER LEGAL THEORY, WHETHER OR NOT
 WE HAVE BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND EVEN IF A REMEDY
-SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.  IN NO CASE
+SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE. IN NO CASE
 SHALL THE COMPANY’S MAXIMUM LIABILITY ARISING OUT OF THESE TERMS, WHETHER BASED
 UPON WARRANTY, CONTRACT, NEGLIGENCE, TORT, STRICT LIABILITY OR OTHERWISE,
 EXCEED IN THE AGGREGATE THE ACTUAL PAYMENTS RECEIVED BY THE COMPANY FROM YOU
-OVER THE PRIOR TWELVE MONTHS FROM THE DATE ON WHICH A CLAIM AROSE.  IN THE
+OVER THE PRIOR TWELVE MONTHS FROM THE DATE ON WHICH A CLAIM AROSE. IN THE
 EVENT THAT APPLICABLE LAW DOES NOT ALLOW THE LIMITATION OF LIABILITY AS SET
 FORTH ABOVE IN THIS SECTION 12 OR THE DISCLAIMER SET FORTH BELOW IN SECTION 13,
 THIS LIMITATION WILL BE DEEMED MODIFIED SOLELY TO THE EXTENT NECESSARY TO
@@ -290,10 +280,10 @@ these Terms as a git repository here. All discussions in this repository are
 intended to encourage improvements to the Terms and the Services, and are NOT
 legally binding. If these Terms are updated, the new version will become the
 HEAD ref of the branch name “current” available on our website. You can elect
-to stop using the Services in the event you do not agree to the material change
+to stop using the Services in case you do not agree to the material change
 of these Terms.
 
-By continuing to access or use our Services after any modifications of our
+By continuing to use our Services after any modifications of our
 Terms become effective, you agree to be bound by these Terms as
 amended/revised. If you do not agree to the new Terms, you are no longer
 authorized to use the Services.
@@ -302,5 +292,4 @@ authorized to use the Services.
 
 If you have any questions about these Terms, please contact us:
 By email: contact@garnix.io
-By visiting this page on our website: repository
 By mail: 9450 South West Gemini Drive, PMB 31001, Beaverton, OR 97008
