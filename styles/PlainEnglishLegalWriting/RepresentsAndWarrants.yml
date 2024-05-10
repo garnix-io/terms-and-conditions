@@ -1,0 +1,14 @@
+extends: existence
+message: "Replace 'represents and warrants' with 'states'"
+link: https://www.americanbar.org/groups/business_law/resources/business-law-today/2015-october/the-phrase-represents-and-warrants-is-pointless-and-confusing/
+nonword: true
+ignorecase: true
+level: error
+action:
+  name: edit
+  params:
+    - remove
+    - '.?!'
+tokens:
+- 'represents and warrants'
+- 'represent and warrant'

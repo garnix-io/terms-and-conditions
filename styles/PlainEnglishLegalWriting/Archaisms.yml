@@ -1,0 +1,24 @@
+extends: existence
+message: "Don't use archaic term '%s'"
+link: https://www.sfbar.org/blog/for-the-sake-of-writing-in-plain-english-at-the-very-least-banish-these-words-and-phrases/
+nonword: true
+level: error
+action:
+  name: edit
+  params:
+    - remove
+    - '.?!'
+tokens:
+- '[H|h]eretofore'
+- '[H|h]ereto'
+- '[T|t]hereto'
+- '[W|w]herefore'
+- '[W|w]hereas'
+- '[A|a]foresaid'
+- '[A|a]forementioned'
+- '[H|h]erewith'
+- '[H|h]erein'
+- '[H|h]ereinafter'
+- '[T|t]herein'
+- '[T|t]hereinafter'
+- '[T|t]o wit'

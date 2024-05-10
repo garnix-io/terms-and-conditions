@@ -1,0 +1,12 @@
+extends: existence
+message: "Replace 'shall'"
+link: https://www.michbar.org/file/generalinfo/plainenglish/pdfs/91_oct.pdf
+nonword: true
+level: warning
+action:
+  name: edit
+  params:
+    - remove
+    - '.?!'
+tokens:
+- 'shall'
