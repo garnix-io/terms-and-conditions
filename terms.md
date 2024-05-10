@@ -58,11 +58,11 @@ necessary to provide you with our Services.
 
 ## Authorized User Accounts
 
-When you create an account with us, you guarantee that you are above the age of
+When you create an account with us, you must be above the age of
 13. If you are under 18 you must have your parent or legal guardian’s
-permission to use the Service. You also guarantee that the information you
-provide us is accurate, complete, and current at all times. We may otherwise
-terminate your account.
+permission to use the Service. All the information you provide us with must
+accurate, complete, and current at all times. We may otherwise terminate your
+account.
 
 ## Your Security Responsibilities
 
