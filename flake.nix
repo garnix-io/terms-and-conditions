@@ -17,6 +17,7 @@
         vale = pkgs.runCommand "vale-check" {} ''
           cd ${./.}
           ${pkgs.vale}/bin/vale terms.md
+          mkdir $out
         '';
       });
     devShells = eachSystem (system:
