@@ -292,4 +292,4 @@ authorized to use the Services.
 
 If you have any questions about these Terms, please contact us:
 By email: contact@garnix.io
-By mail: 9450 South West Gemini Drive, PMB 31001, Beaverton, OR 97008
+By mail: 548 Market St PMB 31001 San Francisco, California 94104-5401 US
