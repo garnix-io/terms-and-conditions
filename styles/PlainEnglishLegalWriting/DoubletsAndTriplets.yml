@@ -1,0 +1,10 @@
+extends: substitution
+message: "Use '%s' instead of '%s'"
+link:
+nonword: true
+level: warning
+swap:
+  'under and subject to': under
+  'for and during': while|during|for
+  'as and from': from|after|on or after|[reword]
+  'as and when': when|if|[reword]

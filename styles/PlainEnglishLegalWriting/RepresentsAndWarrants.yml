@@ -1,0 +1,8 @@
+extends: substitution
+message: "Use '%s' instead of '%s'"
+link: https://www.americanbar.org/groups/business_law/resources/business-law-today/2015-october/the-phrase-represents-and-warrants-is-pointless-and-confusing/
+nonword: true
+level: warning
+swap:
+  'represents and warrants': states
+  'represent and warrant': state

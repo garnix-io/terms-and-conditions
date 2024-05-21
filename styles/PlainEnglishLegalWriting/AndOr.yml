@@ -1,0 +1,12 @@
+extends: existence
+message: "Replace 'and/or' with 'and' or 'or'"
+link: https://lawprose.org/lawprose-lesson-209-ban-andor/
+nonword: true
+level: error
+action:
+  name: edit
+  params:
+    - remove
+    - '.?!'
+tokens:
+- 'and/or'
