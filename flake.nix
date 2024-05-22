@@ -14,15 +14,10 @@
           {
             default =
               let pkgs = nixpkgs.legacyPackages.${system};
-              in pkgs.stdenv.mkDerivation
-                {
-                  name = "terms-and-conditions";
-                  src = ./.;
-                  installPhase = ''
-                    mkdir $out
-                    cp terms.md $out
+              in pkgs.runCommand "terms.md" {}
+                  ''
+                    cp ${./terms.md} $out
                   '';
-                };
           });
 
       checks = eachSystem (system:
