@@ -1,0 +1,13 @@
+extends: existence
+message: "Replace 'any and all' with 'any' or 'all'"
+link: https://www.michbar.org/file/generalinfo/plainenglish/pdfs/91_oct.pdf
+nonword: true
+ignorecase: true
+level: error
+action:
+  name: edit
+  params:
+    - remove
+    - '.?!'
+tokens:
+- 'any and all'
