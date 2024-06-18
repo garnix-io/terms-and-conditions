@@ -1,11 +1,17 @@
 # garnix Terms and Conditions
 
-This repository contains garnix's Terms and Conditions.
+This repository contains garnix's Terms and Conditions. We make them available
+here to:
+
+a) **facilitate comparison of any updates to our terms**. You can simply check
+   the diff betweent the two relevant commits
+b) **allow for questions and contributions**. Open an issue or submit a PR.
+c) **make it easy for other people to keep their terms simple**. You can either
+   fork this repo, or import it as a `nix` project, or use it as a `vale` style.
 
 **Note**: None of the content here is legal advice, or legally binding. Even
 the `terms.html` themselves are not to be preferred over what you find on
 [our website](https://garnix.io).
-
 
 ## Branches
 
@@ -18,7 +24,16 @@ We strive to make the terms short and easy to understand. This includes
 avoiding legalese where possible.
 
 There is a lot of literature on "plain English" legal writing. A good starting
-point is Bryan A. Garner's "Legal Writing in Plain English".
+point is Bryan A. Garner's "Legal Writing in Plain English" or Kenneth Adams'
+"A Manual of Style for Contract Drafting".
+
+We use [`vale`](https://vale.sh) to encode and enforce style guidelines for
+simple legal writing.
+
+
+## Inspiration
+
+Some
 
 ## Contributing
 
